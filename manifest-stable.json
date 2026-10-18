@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "1.0.0",
+  "date": "2026-10-18",
+  "notes_fr": "Première version bêta de Gemcut.\nShorts prêts à valider à partir de tes parties Outplayed (League of Legends, CS2).\nTri rapide des pépites, retouche et publication.\nIA en ligne avec ta propre clé Groq gratuite.\nBouton « Créer un rapport pour l'équipe » en cas de souci.",
+  "notes_en": "First Gemcut beta.\nShorts ready to review from your Outplayed games (League of Legends, CS2).\nQuick gem sorting, trimming and publishing.\nOnline AI with your own free Groq key.\n« Create a report for the team » button if something goes wrong.",
+  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.0/Gemcut_Setup_1.0.0.exe",
+  "size": 32157643,
+  "sha256": "8aba1b0c321bcf994958383e96fe54a24abc47b084f82df14891e11589a5e71f",
+  "min_version": "",
+  "requirements_hash": "a83cf46e81fa1898e2d68354d1fef2acfe9964aa27466f8aa54bc1c17a1235bd",
+  "signature": "FmEEpE7uVbcQ+ijZOyYUEKb7hgcMsimbplqxvAz4W1Q+knoyshnTSfmQFJLK2Zg0LlfvkuZzjMe+6XbX8krXBw=="
+}

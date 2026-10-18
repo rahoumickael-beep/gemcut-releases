@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-10-18",
-  "notes_fr": "Première version bêta de Gemcut.\nShorts prêts à valider à partir de tes parties Outplayed (League of Legends, CS2).\nTri rapide des pépites, retouche et publication.\nIA en ligne avec ta propre clé Groq gratuite.\nBouton « Créer un rapport pour l'équipe » en cas de souci.",
-  "notes_en": "First Gemcut beta.\nShorts ready to review from your Outplayed games (League of Legends, CS2).\nQuick gem sorting, trimming and publishing.\nOnline AI with your own free Groq key.\n« Create a report for the team » button if something goes wrong.",
-  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.0/Gemcut_Setup_1.0.0.exe",
-  "size": 32157643,
-  "sha256": "8aba1b0c321bcf994958383e96fe54a24abc47b084f82df14891e11589a5e71f",
+  "notes_fr": "Vidéo de présentation au premier lancement (3 min 39, sous-titrée), à revoir dans Réglages › Général.\nLes vignettes des pépites s'affichent dans la grille.\nLe logo de la barre latérale ne se décale plus après Best-of ou Ma marque.\nLa carte Twitch de l'accueil guidé dit si ton compte est connecté.",
+  "notes_en": "Welcome video on first launch (3 min 39, subtitled), replay it in Settings › General.\nGem thumbnails now show in the grid.\nThe sidebar logo no longer shifts after visiting Best-of or My brand.\nThe Twitch card of the guided setup now shows whether your account is connected.",
+  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.1/Gemcut_Setup_1.0.1.exe",
+  "size": 48146106,
+  "sha256": "7c81c38845599656f77da012ce12ed29aa2cc83fac10f353dbc6112f9c2f2220",
   "min_version": "",
   "requirements_hash": "a83cf46e81fa1898e2d68354d1fef2acfe9964aa27466f8aa54bc1c17a1235bd",
-  "signature": "FmEEpE7uVbcQ+ijZOyYUEKb7hgcMsimbplqxvAz4W1Q+knoyshnTSfmQFJLK2Zg0LlfvkuZzjMe+6XbX8krXBw=="
+  "signature": "dbqUPDgSPy6mpw1Hd6HdAaJXel0xIf6ppryBSumRLP+Cy0VxVMpmMN+CnYUUNxOn3anyegW4fVNpkl5alNlBDQ=="
 }

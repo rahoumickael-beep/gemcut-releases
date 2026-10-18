@@ -5,7 +5,7 @@ prêts à valider, puis à publier. Tes vidéos restent sur ton PC.
 
 Merci de tester cette bêta ! Ce guide t'accompagne de l'installation au premier Short.
 
-**[⬇️ Télécharger Gemcut 1.0.0 (Windows, 31 Mo)](https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.0/Gemcut_Setup_1.0.0.exe)**
+**[⬇️ Télécharger Gemcut 1.0.1 (Windows, 48 Mo)](https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.1/Gemcut_Setup_1.0.1.exe)**
 
 ---
 
@@ -23,7 +23,7 @@ Compte **15 à 30 minutes** pour l'installation, selon ta connexion.
 
 ## 1. Installer
 
-1. Ouvre `Gemcut_Setup_1.0.0.exe`.
+1. Ouvre `Gemcut_Setup_1.0.1.exe`.
 2. Ton navigateur peut te prévenir que ce fichier est **rarement téléchargé** : choisis de le conserver.
 3. Windows peut afficher un écran bleu **« Windows a protégé votre ordinateur »**. C'est normal pour une bêta qui
    n'a pas encore de signature numérique : clique sur **Informations complémentaires**, puis sur **Exécuter quand même**.

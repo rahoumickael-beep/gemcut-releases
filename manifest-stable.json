@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.0.1",
-  "date": "2026-10-18",
-  "notes_fr": "Vidéo de présentation au premier lancement (3 min 39, sous-titrée), à revoir dans Réglages › Général.\nLes vignettes des pépites s'affichent dans la grille.\nLe logo de la barre latérale ne se décale plus après Best-of ou Ma marque.\nLa carte Twitch de l'accueil guidé dit si ton compte est connecté.",
-  "notes_en": "Welcome video on first launch (3 min 39, subtitled), replay it in Settings › General.\nGem thumbnails now show in the grid.\nThe sidebar logo no longer shifts after visiting Best-of or My brand.\nThe Twitch card of the guided setup now shows whether your account is connected.",
-  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.1/Gemcut_Setup_1.0.1.exe",
-  "size": 48146106,
-  "sha256": "7c81c38845599656f77da012ce12ed29aa2cc83fac10f353dbc6112f9c2f2220",
+  "version": "1.0.2",
+  "date": "2026-10-19",
+  "notes_fr": "Mise à jour automatique : Gemcut se rouvre tout seul après, et te prévient si elle n'a pas pu s'installer.\nShorts plus légers (environ 20 % de moins), même qualité ; Short CS2 avec les 7 meilleurs kills.\nRaisons des pépites et messages d'erreur en français simple.\nJeux pas encore reconnus : Gemcut le dit franchement au lieu d'inventer des moments forts.\nNouveau : « Supprimer mes données » et trois interrupteurs de confidentialité (Réglages › Données et confidentialité).\nAvertissement avant publication si une musique peut-être protégée est entendue.\nTéléphone : les vidéos se lisent, chaque pépite a sa vignette ; le téléphone sert à regarder et trier.",
+  "notes_en": "Automatic update: Gemcut reopens by itself afterwards, and tells you if the update could not be installed.\nLighter Shorts (about 20% smaller), same quality; CS2 Short keeps the 7 best kills.\nGem reasons and error messages in plain words.\nGames not yet recognised: Gemcut says so instead of inventing highlights.\nNew: Delete my data and three privacy switches (Settings › Data and privacy).\nWarning before publishing when possibly protected music is heard.\nPhone: videos play, every gem has a thumbnail; the phone is for watching and sorting.",
+  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.2/Gemcut_Setup_1.0.2.exe",
+  "size": 48177923,
+  "sha256": "b4cb557718c1bf9647e3a36fdf9a67532d677a01fe7e69ff3da03e0fa3717b72",
   "min_version": "",
   "requirements_hash": "a83cf46e81fa1898e2d68354d1fef2acfe9964aa27466f8aa54bc1c17a1235bd",
-  "signature": "dbqUPDgSPy6mpw1Hd6HdAaJXel0xIf6ppryBSumRLP+Cy0VxVMpmMN+CnYUUNxOn3anyegW4fVNpkl5alNlBDQ=="
+  "signature": "24F70UmJmd4pnu7ke5ANn1kzEsc1bydvZhteT+nuIXELp6cTcMez6eHRnZtywzypLdKjVrwRNZ+fi0pffqWCDw=="
 }

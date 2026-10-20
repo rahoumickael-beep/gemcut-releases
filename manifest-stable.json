@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.0.2",
-  "date": "2026-10-19",
-  "notes_fr": "Mise à jour automatique : Gemcut se rouvre tout seul après, et te prévient si elle n'a pas pu s'installer.\nShorts plus légers (environ 20 % de moins), même qualité ; Short CS2 avec les 7 meilleurs kills.\nRaisons des pépites et messages d'erreur en français simple.\nJeux pas encore reconnus : Gemcut le dit franchement au lieu d'inventer des moments forts.\nNouveau : « Supprimer mes données » et trois interrupteurs de confidentialité (Réglages › Données et confidentialité).\nAvertissement avant publication si une musique peut-être protégée est entendue.\nTéléphone : les vidéos se lisent, chaque pépite a sa vignette ; le téléphone sert à regarder et trier.",
-  "notes_en": "Automatic update: Gemcut reopens by itself afterwards, and tells you if the update could not be installed.\nLighter Shorts (about 20% smaller), same quality; CS2 Short keeps the 7 best kills.\nGem reasons and error messages in plain words.\nGames not yet recognised: Gemcut says so instead of inventing highlights.\nNew: Delete my data and three privacy switches (Settings › Data and privacy).\nWarning before publishing when possibly protected music is heard.\nPhone: videos play, every gem has a thumbnail; the phone is for watching and sorting.",
-  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.2/Gemcut_Setup_1.0.2.exe",
-  "size": 48177923,
-  "sha256": "b4cb557718c1bf9647e3a36fdf9a67532d677a01fe7e69ff3da03e0fa3717b72",
+  "version": "1.0.3",
+  "date": "2026-10-20",
+  "notes_fr": "Overwatch et Rocket League reconnus : Gemcut trouve tes kills (Overwatch) et tes buts (Rocket League) pour les Shorts.\nVALORANT : beaucoup moins de fausses « morts » au début des manches. CS2 : plus rien pendant l'échauffement, manches gagnées vérifiées.\nTéléphone : aperçu léger des pépites (environ 10 fois moins lourd), la lecture reprend où elle s'était arrêtée.\nLes captures du bureau sont mieux reconnues (barre des tâches sur le côté, en haut ou masquée) : pas de Short sur ton bureau.\nJeux pas encore reconnus : le résumé de partie dit clairement pourquoi il est vide.",
+  "notes_en": "Overwatch and Rocket League recognised: Gemcut finds your kills (Overwatch) and goals (Rocket League) for Shorts.\nVALORANT: far fewer false deaths at the start of rounds. CS2: nothing during warm-up, round wins double-checked.\nPhone: light preview of gems (about 10 times smaller), playback resumes where it stopped.\nDesktop captures are better recognised (taskbar on the side, at the top or hidden): no Short of your desktop.\nGames not yet recognised: the match summary says clearly why it is empty.",
+  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.3/Gemcut_Setup_1.0.3.exe",
+  "size": 55401258,
+  "sha256": "64ea7db86f950a1b7b52cd90e08617524ee2739df9e97e21e58d8bfcb235c813",
   "min_version": "",
   "requirements_hash": "a83cf46e81fa1898e2d68354d1fef2acfe9964aa27466f8aa54bc1c17a1235bd",
-  "signature": "24F70UmJmd4pnu7ke5ANn1kzEsc1bydvZhteT+nuIXELp6cTcMez6eHRnZtywzypLdKjVrwRNZ+fi0pffqWCDw=="
+  "signature": "mQ//iX0xWOG62CLxLw6xjxxoBKcSK1froo5amNiWe4OY0Du2VsDKzTHDbneqhOlx5qe2UOdITGhE0pG76bJnAQ=="
 }

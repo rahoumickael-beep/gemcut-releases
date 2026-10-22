@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.0.3",
-  "date": "2026-10-20",
-  "notes_fr": "Overwatch et Rocket League reconnus : Gemcut trouve tes kills (Overwatch) et tes buts (Rocket League) pour les Shorts.\nVALORANT : beaucoup moins de fausses « morts » au début des manches. CS2 : plus rien pendant l'échauffement, manches gagnées vérifiées.\nTéléphone : aperçu léger des pépites (environ 10 fois moins lourd), la lecture reprend où elle s'était arrêtée.\nLes captures du bureau sont mieux reconnues (barre des tâches sur le côté, en haut ou masquée) : pas de Short sur ton bureau.\nJeux pas encore reconnus : le résumé de partie dit clairement pourquoi il est vide.",
-  "notes_en": "Overwatch and Rocket League recognised: Gemcut finds your kills (Overwatch) and goals (Rocket League) for Shorts.\nVALORANT: far fewer false deaths at the start of rounds. CS2: nothing during warm-up, round wins double-checked.\nPhone: light preview of gems (about 10 times smaller), playback resumes where it stopped.\nDesktop captures are better recognised (taskbar on the side, at the top or hidden): no Short of your desktop.\nGames not yet recognised: the match summary says clearly why it is empty.",
-  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.3/Gemcut_Setup_1.0.3.exe",
-  "size": 55401258,
-  "sha256": "64ea7db86f950a1b7b52cd90e08617524ee2739df9e97e21e58d8bfcb235c813",
+  "version": "1.0.4",
+  "date": "2026-10-22",
+  "notes_fr": "Installation plus douce pour ton PC : elle ne bloque plus le processeur (environ 15 minutes selon ta connexion).\nGemcut se souvient de ton thème, de ta langue et de ta vue d'un lancement à l'autre.\nNouvelle aide « Premiers pas » sur l'Accueil ; la vidéo de lancement est retirée.\nReconnaissance à l'image : League of Legends, VALORANT, Overwatch et Rocket League. CS2 : moments trouvés grâce aux événements notés par ton enregistreur.\nMusique importée : Gemcut te rappelle qu'il ne peut pas vérifier ses droits avant de publier.\nTéléphone : bouton pour télécharger l'original, aperçu League of Legends plus net.",
+  "notes_en": "Gentler installation: it no longer maxes out your processor (about 15 minutes depending on your connection).\nGemcut remembers your theme, language and view between launches.\nNew \"First steps\" help on Home; the launch video has been removed.\nImage recognition: League of Legends, VALORANT, Overwatch and Rocket League. CS2: moments found from the events noted by your recorder.\nImported music: Gemcut reminds you it cannot check its rights before publishing.\nPhone: button to download the original, sharper League of Legends preview.",
+  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.4/Gemcut_Setup_1.0.4.exe",
+  "size": 107453984,
+  "sha256": "8b3d1818161767b5398357d7e57b4b74a8eec2758d0d2a8609764db27af677cf",
   "min_version": "",
-  "requirements_hash": "a83cf46e81fa1898e2d68354d1fef2acfe9964aa27466f8aa54bc1c17a1235bd",
-  "signature": "mQ//iX0xWOG62CLxLw6xjxxoBKcSK1froo5amNiWe4OY0Du2VsDKzTHDbneqhOlx5qe2UOdITGhE0pG76bJnAQ=="
+  "requirements_hash": "4777f4fd4e80ea4fc2ed46b5bcf9786fb2a4c50d213b5be7bdaf1d914a934ca1",
+  "signature": "2de/FLOSgrWmy7zOBrQxbjyqMFiGs7Wtf4qcCaOlrlzMc+oKwgNy8VP7F+TY3O3rNo8IcNusgG/rrX0CblrrDA=="
 }

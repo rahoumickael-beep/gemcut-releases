@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.0.4",
-  "date": "2026-10-22",
-  "notes_fr": "Installation plus douce pour ton PC : elle ne bloque plus le processeur (environ 15 minutes selon ta connexion).\nGemcut se souvient de ton thème, de ta langue et de ta vue d'un lancement à l'autre.\nNouvelle aide « Premiers pas » sur l'Accueil ; la vidéo de lancement est retirée.\nReconnaissance à l'image : League of Legends, VALORANT, Overwatch et Rocket League. CS2 : moments trouvés grâce aux événements notés par ton enregistreur.\nMusique importée : Gemcut te rappelle qu'il ne peut pas vérifier ses droits avant de publier.\nTéléphone : bouton pour télécharger l'original, aperçu League of Legends plus net.",
-  "notes_en": "Gentler installation: it no longer maxes out your processor (about 15 minutes depending on your connection).\nGemcut remembers your theme, language and view between launches.\nNew \"First steps\" help on Home; the launch video has been removed.\nImage recognition: League of Legends, VALORANT, Overwatch and Rocket League. CS2: moments found from the events noted by your recorder.\nImported music: Gemcut reminds you it cannot check its rights before publishing.\nPhone: button to download the original, sharper League of Legends preview.",
-  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.4/Gemcut_Setup_1.0.4.exe",
-  "size": 107453984,
-  "sha256": "8b3d1818161767b5398357d7e57b4b74a8eec2758d0d2a8609764db27af677cf",
+  "version": "1.0.5",
+  "date": "2026-10-25",
+  "notes_fr": "Une partie dont l'enregistreur n'a rien noté donne quand même un Short : Gemcut regarde l'image.\nLeague of Legends : un « ace d'équipe » où tu n'as rien fait ne passe plus devant tes propres kills.\nCS2 : un faux « ace » noté en fin de manche n'est plus mis en avant.\nUn passage où l'image de l'enregistrement est figée n'est plus proposé dans un montage.\nStreams entiers : tes rires et tes cris comptent davantage pour trouver les bons moments.\nOnglet Parties : tri (date, action, note, kills…) et filtre par jeu.\nMise à jour automatique plus sûre, aussi quand tu fermes Gemcut par la croix ; une partie que Gemcut ne peut pas relier à ses enregistrements est maintenant signalée.",
+  "notes_en": "A match your recorder noted nothing for still gives a Short: Gemcut reads the image.\nLeague of Legends: a team \"ace\" you took no part in no longer goes before your own kills.\nCS2: a false \"ace\" noted at the end of a round is no longer highlighted.\nA stretch where the recording's image is frozen is no longer offered in a montage.\nFull streams: your laughs and shouts count more to find the best moments.\nMatches tab: sorting (date, action, rating, kills…) and filter by game.\nSafer automatic update, also when you close Gemcut with the cross; a match Gemcut cannot link to its recordings is now reported.",
+  "url": "https://github.com/rahoumickael-beep/gemcut-releases/releases/download/v1.0.5/Gemcut_Setup_1.0.5.exe",
+  "size": 121216962,
+  "sha256": "1ab611995a21b3704f696901946a519334f591e4dc783f772c6a509f942e0ec7",
   "min_version": "",
   "requirements_hash": "4777f4fd4e80ea4fc2ed46b5bcf9786fb2a4c50d213b5be7bdaf1d914a934ca1",
-  "signature": "2de/FLOSgrWmy7zOBrQxbjyqMFiGs7Wtf4qcCaOlrlzMc+oKwgNy8VP7F+TY3O3rNo8IcNusgG/rrX0CblrrDA=="
+  "signature": "8L6nkX5xvDw4S7Ub05Ze/NlaUEe2Wu2hr3hYu0Xu17Xw9ECLv9lq3BQ3DBbse4LhZcQ7+JqQRL1fJJCJXGebDg=="
 }
